@@ -76,7 +76,10 @@ Check out my repositories for my latest work, including web apps, open-source co
 
 <img src="https://github.com/yidextech/yidextech/blob/main/Images/nikola-teslaquote.jpg" width="300px">
 <img src="https://github.com/yidextech/yidextech/blob/main/Images/nikola-teslaquote2.jpg" width="300px">
-  
+
+**“So, whether you eat or drink, or whatever you do, do everything for the glory of God”**  
+*(1 Cor 10:31)*
+## Stay curious and keep coding! 🧠💻
 </div>
 
 
