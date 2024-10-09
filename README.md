@@ -11,7 +11,7 @@ I'm a passionate frontend developer and react-native mobile app developer focuse
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/react.png" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" title="React Native"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png" alt="C++" title="C++"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
