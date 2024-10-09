@@ -73,16 +73,14 @@ Check out my repositories for my latest work, including web apps, open-source co
 ---
 
 
-<div style="background-image: url('https://raw.githubusercontent.com/yidextech/yidextech/main/Images/stars-galaxy.gif'); 
-            height: 300px; 
-            background-size: cover; 
-            color: white; 
-            text-align: center; 
-            padding: 20px;">
-  <h1>"So, whether you eat or drink, or whatever you do, do everything for the glory of God"</h1>
-  <h2>1 Cor 10:31</h2>
+<div align="center">
+  
+  <img src="https://raw.githubusercontent.com/yidextech/yidextech/main/Images/stars-galaxy.gif">
+  
+  **"So, whether you eat or drink, or whatever you do, do everything for the glory of God"**  
+  *1 Cor 10:31*
+  
 </div>
-
 
 ## Stay curious and keep coding! 🧠💻
 
