@@ -79,10 +79,13 @@ Check out my repositories for my latest work, including web apps, open-source co
   
   **"So, whether you eat or drink, or whatever you do, do everything for the glory of God"**  
   *1 Cor 10:31*
+
+
+  ## Stay curious and keep coding! 🧠💻
   
 </div>
 
-## Stay curious and keep coding! 🧠💻
+
 
 
 
