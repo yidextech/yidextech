@@ -47,7 +47,7 @@ I'm a passionate frontend developer and react-native mobile app developer focuse
 Check out my repositories for my latest work, including web apps, open-source contributions, and personal projects.
 
 <div align="center">
-  <a href="https://github.com/yourusername?tab=repositories">Check out my repos</a>
+  <a href="https://github.com/yidextech?tab=repositories">Check out my repos</a>
 </div>
 
 ---
