@@ -18,7 +18,7 @@ I'm a passionate frontend developer and react-native mobile app developer focuse
   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" title="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux"/>
   <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" title="Nmap"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burp_Suite_Logo.png/800px-Burp_Suite_Logo.png" alt="Burp Suite" title="Burp Suite" width="48"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burp_Suite_logo.png/640px-Burp_Suite_logo.png" alt="Burp Suite" title="Burp Suite" width="48"/>
   <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" title="Metasploit"/>
 </div>
 ### Projects:
