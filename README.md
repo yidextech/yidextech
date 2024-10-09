@@ -71,8 +71,12 @@ Check out my repositories for my latest work, including web apps, open-source co
 
 
 ---
-
-<div align="center">
+<div align="center" style="background-image: url('https://raw.githubusercontent.com/username/repo-name/branch-name/path-to-image.jpg'); 
+            height: 300px; 
+            background-size: cover; 
+            color: white; 
+            text-align: center; 
+            padding: 20px;">
 
 <img src="https://github.com/yidextech/yidextech/blob/main/Images/nikola-teslaquote.jpg" width="300px">
 <img src="https://github.com/yidextech/yidextech/blob/main/Images/nikola-teslaquote2.jpg" width="300px">
