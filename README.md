@@ -73,7 +73,7 @@ Check out my repositories for my latest work, including web apps, open-source co
 ---
 
 
-<div align="center" style="background-image: url(https://github.com/yidextech/yidextech/blob/main/Images/stars-galaxy.gif); 
+<div style="background-image: url(https://github.com/yidextech/yidextech/blob/main/Images/stars-galaxy.gif); 
             height: 300px; 
             background-size: cover; 
             color: white; 
