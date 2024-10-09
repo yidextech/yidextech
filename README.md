@@ -48,20 +48,22 @@ Check out my repositories for my latest work, including web apps, open-source co
 <div align="center">
   <a href="https://github.com/yourusername?tab=repositories">Check out my repos</a>
 </div>
+
 ---
+
 ### Let's Connect:
 <div align="center">
   <a href="your-twitter-url" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" title="Twitter" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="48px"/>
   </a>
   <a href="your-linkedin-url" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="48px" />
   </a>
   <a href="your-leetcode-url" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" title="LeetCode" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rahuljauhari3/" width="48px" />
   </a>
   <a href="your-codeforces-url" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/codeforces.png" alt="Codeforces" title="Codeforces" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/rahuljauhari3" width="48px" />
   </a>
 </div>
 
