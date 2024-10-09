@@ -4,7 +4,10 @@
 ## Hi 👋 Welcome to My GitHub Profile!
 I'm a passionate frontend developer and react-native mobile app developer focused on creating user-friendly, responsive web and mobile applications. I'm also a cybersecurity enthusiast, exploring the intersection of development and security.
 
-![My Cool GIF](https://raw.githubusercontent.com/yidextech/yidextech/main/Images/yidextech.gif)
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/yidextech/yidextech/main/Images/yidextech.gif">
+</div>
 
 ---
 ### Skills:
