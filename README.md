@@ -71,6 +71,8 @@ Check out my repositories for my latest work, including web apps, open-source co
 
 
 ---
+
+
 <div align="center" style="background-image: url('https://raw.githubusercontent.com/username/repo-name/branch-name/path-to-image.jpg'); 
             height: 300px; 
             background-size: cover; 
@@ -78,13 +80,12 @@ Check out my repositories for my latest work, including web apps, open-source co
             text-align: center; 
             padding: 20px;">
 
-<img src="https://github.com/yidextech/yidextech/blob/main/Images/nikola-teslaquote.jpg" width="300px">
-<img src="https://github.com/yidextech/yidextech/blob/main/Images/nikola-teslaquote2.jpg" width="300px">
+<h1>"So, whether you eat or drink, or whatever you do, do everything for the glory of God"</h1>
+<h2>1 Cor 10:31</h2>
+</div
+  
 
-**“So, whether you eat or drink, or whatever you do, do everything for the glory of God”**  
-*(1 Cor 10:31)*
 ## Stay curious and keep coding! 🧠💻
-</div>
 
 
 
