@@ -41,6 +41,14 @@ I'm a passionate frontend developer and react-native mobile app developer focuse
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yidextech&show_icons=true&theme=radical)
 ---
+
+### Projects:
+Check out my repositories for my latest work, including web apps, open-source contributions, and personal projects.
+
+<div align="center">
+  <a href="https://github.com/yourusername?tab=repositories">Check out my repos</a>
+</div>
+---
 ### Let's Connect:
 <div align="center">
   <a href="your-twitter-url" target="_blank">
@@ -57,13 +65,8 @@ I'm a passionate frontend developer and react-native mobile app developer focuse
   </a>
 </div>
 
----
-### Projects:
-Check out my repositories for my latest work, including web apps, open-source contributions, and personal projects.
 
-<div align="center">
-  <a href="https://github.com/yourusername?tab=repositories">Check out my repos</a>
-</div>
+
 
 
 
