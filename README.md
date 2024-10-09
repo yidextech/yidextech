@@ -11,7 +11,8 @@ I'm a passionate frontend developer and react-native mobile app developer focuse
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
+  <img src="https://img.icons8.com/color/48/000000/react.png" alt="React" title="React"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" title="React Native"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png" alt="C++" title="C++"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" title="Git"/>
@@ -20,7 +21,10 @@ I'm a passionate frontend developer and react-native mobile app developer focuse
   <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" title="Nmap"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Burp_Suite_logo.png/640px-Burp_Suite_logo.png" alt="Burp Suite" title="Burp Suite" width="48"/>
   <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" title="Metasploit"/>
+  <img src="https://img.icons8.com/color/48/000000/hydra.png" alt="Hydra" title="Hydra"/>
+  <img src="https://img.icons8.com/color/48/000000/gobuster.png" alt="Gobuster" title="Gobuster"/>
 </div>
+
 ### Projects:
 Check out my repositories for my latest work, including web apps, open-source contributions, and personal projects.
 
