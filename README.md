@@ -70,6 +70,13 @@ Check out my repositories for my latest work, including web apps, open-source co
 </div>
 
 
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yidextech/yidextech/main/Images/yidextech.gif](https://github.com/yidextech/yidextech/blob/main/Images/nikola-teslaquote.jpg">
+  
+</div>
 
 
 
