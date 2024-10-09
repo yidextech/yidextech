@@ -1,7 +1,7 @@
-## Yididiya G.
+# Yididiya G.
 **`(Developer/Cybersecurity Enthusiast)`**
 
-#### Hi 👋 Welcome to My GitHub Profile!
+## Hi 👋 Welcome to My GitHub Profile!
 I'm a passionate frontend developer and react-native mobile app developer focused on creating user-friendly, responsive web and mobile applications. I'm also a cybersecurity enthusiast, exploring the intersection of development and security.
 
 ![My Cool GIF](https://github.com/username/repository-name/blob/main/path-to-your-gif.gif)
