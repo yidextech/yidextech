@@ -74,8 +74,8 @@ Check out my repositories for my latest work, including web apps, open-source co
 
 <div align="center">
 
-<img src="https://github.com/yidextech/yidextech/blob/main/Images/nikola-teslaquote.jpg">
-<img src="https://github.com/yidextech/yidextech/blob/main/Images/nikola-teslaquote2.jpg">
+<img src="https://github.com/yidextech/yidextech/blob/main/Images/nikola-teslaquote.jpg" width="300px">
+<img src="https://github.com/yidextech/yidextech/blob/main/Images/nikola-teslaquote2.jpg" width="300px">
   
 </div>
 
