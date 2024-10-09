@@ -22,7 +22,7 @@ I'm a passionate frontend developer and react-native mobile app developer focuse
 
 #### Tools:
 <div>
-  <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48px" />
   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" title="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="48px" />
@@ -35,6 +35,28 @@ I'm a passionate frontend developer and react-native mobile app developer focuse
   <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" title="Metasploit"/>
   <img src="https://img.icons8.com/color/48/000000/hydra.png" alt="Hydra" title="Hydra"/>
 </div>
+---
+
+# Stats
+### GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yidextech&show_icons=true&theme=radical)
+---
+### Let's Connect:
+<div align="center">
+  <a href="your-twitter-url" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" title="Twitter" />
+  </a>
+  <a href="your-linkedin-url" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" />
+  </a>
+  <a href="your-leetcode-url" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/leetcode.png" alt="LeetCode" title="LeetCode" />
+  </a>
+  <a href="your-codeforces-url" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/codeforces.png" alt="Codeforces" title="Codeforces" />
+  </a>
+</div>
+
 ---
 ### Projects:
 Check out my repositories for my latest work, including web apps, open-source contributions, and personal projects.
