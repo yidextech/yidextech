@@ -54,7 +54,7 @@ Check out my repositories for my latest work, including web apps, open-source co
 ---
 
 ### Let's Connect:
-<div align="center">
+<div>
   <a href="your-twitter-url" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="48px"/>
   </a>
