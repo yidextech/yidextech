@@ -42,7 +42,7 @@ I'm a passionate frontend developer and react-native mobile app developer focuse
 
 ---
 
-# Stats
+## Stats
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yidextech&show_icons=true&theme=radical)
 ---
